@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0189-rotate-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0212-word-search-ii](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0215-kth-largest-element-in-an-array) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0143-reorder-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0567-permutation-in-string) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0009-palindrome-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/Dharaniga2008/75DaysLeetcodechallenge/tree/master/0189-rotate-array) |
 ## Monotonic Stack
 |  |
 | ------- |
