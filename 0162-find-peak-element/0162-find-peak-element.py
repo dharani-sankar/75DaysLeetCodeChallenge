@@ -1,17 +1,18 @@
-class Solution:
+class Solution(object):
     def findPeakElement(self, nums):
-        left = 0
-        right = len(nums) - 1
-
-        while left < right:
-            mid = (left + right) // 2
-
-            # If middle element is smaller than next element
-            # then peak is on the right side
-            if nums[mid] < nums[mid + 1]:
-                left = mid + 1
-            else:
-                # Peak is on the left side including mid
-                right = mid
-
-        return left
+        """
+        :type nums: List[int]
+        :rtype: int
+        """
+        n=len(nums)
+        if(n==0):
+            return -1
+        
+        max_ele=nums[0]
+        max_ind=0
+        for i in range(1,n):
+            if nums[i]>max_ele:
+                max_ele=nums[i]
+                max_ind=i
+        return max_ind
+            
