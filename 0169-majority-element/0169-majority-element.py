@@ -5,7 +5,7 @@ class Solution(object):
         :rtype: int
         """
         count=0
-        major=None
+        major=0
         for num in nums:
             if count==0:
                 major=num
