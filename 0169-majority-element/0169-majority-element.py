@@ -1,4 +1,7 @@
 from typing import List
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        from typing import List
 
 class Solution:
     def majorityElement(self, nums: List[int]) -> int:
@@ -14,3 +17,4 @@ class Solution:
                 count -= 1
 
         return candidate
+
